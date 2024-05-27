@@ -11,4 +11,5 @@
 
 А также в консоле нужно запустить команду для загрузки модели llama3 с помощью команды ollama pull llama3-gradient
 
-На уровне проекта нужно развернуть whisper.cpp с помощью команды git clone git@github.com:openai/whisper.git
+На уровне проекта нужно развернуть whisper.cpp с помощью команды 
+`git clone git@github.com:openai/whisper.git`
