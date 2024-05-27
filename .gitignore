@@ -1,0 +1,11 @@
+.env
+node_modules
+.idea
+*.wav
+*.mp3
+*.pcm
+*.txt
+*.bin
+*.mp4
+*.mkv
+whisper.cpp
